@@ -25,7 +25,6 @@ This is something I wanted to test
 
 Opensource Nepotism -->
 
-# Opensource Nepotism
 
 | Name | Company | Values |
 |-------|--------|---------|

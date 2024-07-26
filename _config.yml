@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Opensource Nepotism
+title: open source ✨nepotism✨
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   We use ✨nepotism✨ to help undergrads and new grades head into industry!
